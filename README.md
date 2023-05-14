@@ -10,7 +10,7 @@ This function gets an array and shuffle its elements (randomly orders).
 ## My Process
 
 First of all I solve the challenge based on what I've learned from javascript.info & then I try to improve my code. Finally I write code according to the javascript.info solution.
-First I wrote a code could shuffle an array & returned a new array. It made random indexes. In this way all element orders had an equal probability. After that I added a snippet of code which returned the modified array, not the new one. Finally I modified the code based on the Javascript.info solution.
+First I wrote a code could shuffle an array & returned a new array. It made random indexes. In this way all element orders had an equal probability. After that I added a snippet of code which returned the modified array, not the new one but element orders didn't have an equal propability. Finally I modified the code based on the Javascript.info solution.
 
 ## Links
 
